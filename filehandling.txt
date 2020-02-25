@@ -1,0 +1,5 @@
+mode ="r" is read only
+mode ="w" is write only (eill overwrite files or create new !)
+mode = "a" is append only(will add on to files)
+mode = "r+" is reading and writing 
+mode ="w+ " is writing and reading (Overwirts existing files or creates a new file!)
